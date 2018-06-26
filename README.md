@@ -1,6 +1,7 @@
 def num_digits():
 	number = 8
 	count = 0
-	
+	while number != 0:
+        	count += 1
 
   
