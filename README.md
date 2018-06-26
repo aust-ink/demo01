@@ -3,5 +3,5 @@ def num_digits():
 	count = 0
 	while number != 0:
         	count += 1
-
+                number //= 11
   
