@@ -5,3 +5,6 @@ def num_digits():
         	count += 1
                 number //= 11
   
+               return count
+	       
+	       print(num_digits())
